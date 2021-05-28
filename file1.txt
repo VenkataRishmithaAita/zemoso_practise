@@ -1,2 +1,2 @@
-This is katas1 
-It's my first file in katas1  
+Adding this line to file
+Lets change the file
