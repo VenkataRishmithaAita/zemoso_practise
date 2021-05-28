@@ -1,0 +1,3 @@
+To create a new branch "git branch branchname"
+To create a new file "touch filename"
+To display a file "cat filename"
