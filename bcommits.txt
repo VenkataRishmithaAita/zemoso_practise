@@ -1,1 +1,2 @@
 Performing basci commits of git file
+Using echo and redirection operator to append text to bcommits.txt
