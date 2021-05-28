@@ -1,1 +1,2 @@
 adding some text into basicommits.txt file
+Trying to make some changes to the file
