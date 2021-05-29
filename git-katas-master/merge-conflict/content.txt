@@ -1,0 +1,3 @@
+Creating a file in merge-conflict-branch1 branch
+Trying to merge branch1 and its contents to master branch
+Saving ...
